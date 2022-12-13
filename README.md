@@ -60,7 +60,7 @@ Clone this repository to your desired folder.
 
 This repository includes a file with plain SQL that can be used to recreate a database based on a given database diagram:
 
-- Use [schema.sql](./schema.sql) to create all tables.
+- Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables.
 **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
