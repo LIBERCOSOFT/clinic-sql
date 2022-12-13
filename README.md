@@ -19,9 +19,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Vet Clinic <a name="about-project"></a>
+# 📖 Clinic <a name="about-project"></a>
 
-**Vet Clinic** is a database project for a veteraniry clinic.
+**Clinic** is a database project for a veteraniry clinic.
 
 ## 🛠 Built With <a name="built-with"></a>
 
